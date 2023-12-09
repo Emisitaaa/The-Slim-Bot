@@ -1,10 +1,10 @@
 {
-  "name": "TheMystic-Bot-MD",
-  "website": "https://github.com/BrunoSobrino",
-  "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
-  "repository": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
-  "logo": "https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/master/src/pictures/heroku-icon.jpg",
-  "success_url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+  "name": "The-Slim-Bot",
+  "website": "https://github.com/Emisitaaa",
+  "description": "I am the best",
+  "repository": "https://github.com/Emisitaaa/The-Slim-Bot",
+  "logo": "https://raw.githubusercontent.com/Emisitaaa/The-Slim-Bot/master/src/pictures/heroku-icon.jpg",
+  "success_url": "https://github.com/Emisitaaa/The-Slim-Bot",
   "keywords": [
     "nodejs",
     "heroku",
@@ -20,9 +20,9 @@
     "whatsappbot",
     "oficial",
     "whatsapp-md",
-    "themysticbot",
-    "themystic-bot",
-    "themystic-bot-md"],
+    "theslimbot",
+    "the-slim-bot",
+    "the-slim-bot"],
   "image": "heroku/nodejs",
   "buildpacks": [
     {
